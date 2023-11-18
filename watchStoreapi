@@ -1,6 +1,7 @@
 [
   {
     "id": "1",
+    "featured": "true",
     "name": "product 1",
     "cost": "50",
     "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
@@ -8,6 +9,7 @@
   },
   {
     "id": "2",
+    "featured": "true",
     "name": "product 2",
     "cost": "50",
     "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
@@ -15,6 +17,7 @@
   },
   {
     "id": "3",
+    "featured": "true",
     "name": "product 3",
     "cost": "50",
     "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
@@ -22,6 +25,7 @@
   },
   {
     "id": "4",
+    "featured": "true",
     "name": "product 4",
     "cost": "50",
     "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
@@ -29,6 +33,7 @@
   },
   {
     "id": "5",
+    "featured": "true",
     "name": "product 5",
     "cost": "50",
     "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
@@ -36,6 +41,7 @@
   },
   {
     "id": "6",
+    "featured": "false",
     "name": "product 6",
     "cost": "50",
     "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
@@ -43,6 +49,7 @@
   },
   {
     "id": "7",
+    "featured": "false",
     "name": "product 7",
     "cost": "50",
     "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
@@ -50,6 +57,7 @@
   },
   {
     "id": "8",
+    "featured": "false",
     "name": "product 8",
     "cost": "50",
     "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
@@ -57,7 +65,56 @@
   },
   {
     "id": "9",
+    "featured": "false",
     "name": "product 9",
+    "cost": "50",
+    "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
+    "Image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/c/a/carl-f--bucherer-manero-00-10919-08-53-21-large.jpg"
+  },
+  {
+    "id": "10",
+    "featured": "false",
+    "name": "product 10",
+    "cost": "50",
+    "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
+    "Image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/c/a/carl-f--bucherer-manero-00-10919-08-53-21-large.jpg"
+  },
+  {
+    "id": "11",
+    "featured": "false",
+    "name": "product 11",
+    "cost": "50",
+    "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
+    "Image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/c/a/carl-f--bucherer-manero-00-10919-08-53-21-large.jpg"
+  },
+  {
+    "id": "12",
+    "featured": "false",
+    "name": "product 12",
+    "cost": "50",
+    "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
+    "Image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/c/a/carl-f--bucherer-manero-00-10919-08-53-21-large.jpg"
+  },
+  {
+    "id": "13",
+    "featured": "false",
+    "name": "product 13",
+    "cost": "50",
+    "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
+    "Image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/c/a/carl-f--bucherer-manero-00-10919-08-53-21-large.jpg"
+  },
+  {
+    "id": "14",
+    "featured": "false",
+    "name": "product 14",
+    "cost": "50",
+    "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
+    "Image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/c/a/carl-f--bucherer-manero-00-10919-08-53-21-large.jpg"
+  },
+  {
+    "id": "15",
+    "featured": "false",
+    "name": "product 15",
     "cost": "50",
     "Product_Details": "The Carl F. Bucherer Manero collection is home to an elegant set of timepieces that takes its inspiration from the watches created by the brand during the 50s and 60s",
     "Image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/c/a/carl-f--bucherer-manero-00-10919-08-53-21-large.jpg"
